@@ -1,0 +1,11 @@
+html {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.bienvenue {
+    text-align: center;
+}
+
+ .bienvenue h3 {
+    font-weight : 100;
+}
